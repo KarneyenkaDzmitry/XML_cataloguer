@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<files>
+	<file>
+		<name>file1.ext</name>
+		<path>c:/dir1/dir2/</path>
+		<size>1234567</size>
+		<datetime>23.12.2015 23:56:48</datetime>
+	</file>
+</files>
